@@ -1,4 +1,6 @@
 # 目录
+* [简单易懂的谈谈 javascript 中的继承](https://github.com/Anshiii/blog/issues/4) 
+
 * [浏览器的 event-loops 机制详解](https://github.com/Anshiii/blog/issues/3) 
 
 * [redux 源码阅读笔记（二)](https://github.com/Anshiii/blog/issues/2) 
